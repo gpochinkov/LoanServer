@@ -1,0 +1,23 @@
+
+Sat Jun 15 01:50:25 EEST 2013: Loan server started.
+
+
+Sat Jun 15 01:53:41 EEST 2013: 
+  Request #1:
+    Client No4 with IP Address 192.168.0.2 requested:
+     Anual Intrest Rate: 1200,00
+     Number Of Years: 1
+     Loan Amoun: 200,00 LVL
+       Result:
+          Monthly Payment: 554,61 BGN
+          Total Payment: 7209,93 BGN
+
+Sat Jun 15 01:53:59 EEST 2013: 
+  Request #2:
+    Client No4 with IP Address 192.168.0.2 requested:
+     Anual Intrest Rate: 1200,00
+     Number Of Years: 1
+     Loan Amoun: 200,00 BGN
+       Result:
+          Monthly Payment: 200,00 BGN
+          Total Payment: 2600,00 BGN
